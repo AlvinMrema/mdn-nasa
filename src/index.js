@@ -9,3 +9,5 @@ if (module.hot) {
     window.location.reload();
   });
 }
+
+//Some CODE I did not write
